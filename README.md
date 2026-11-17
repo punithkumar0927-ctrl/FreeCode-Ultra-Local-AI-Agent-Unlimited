@@ -2,7 +2,7 @@
 
 > **Production-grade, local-first AI coding agent** — No paid APIs, no daily limits, no cloud dependency.
 
-🔗 **Live Preview:** [http://localhost:5173](http://localhost:5173)
+🔗 **Live Preview:** [http://localhost:3000/]
 
 ---
 
