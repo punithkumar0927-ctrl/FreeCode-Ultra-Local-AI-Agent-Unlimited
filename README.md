@@ -113,4 +113,4 @@ MIT — Free for personal and commercial use.
 
 ---
 
-**Built with ❤️ for developers who want unlimited local AI coding assistance.**
+Built from scratch by **Punith Kumar** to give developers fast, private, and unlimited AI coding assistance on their own machine.
